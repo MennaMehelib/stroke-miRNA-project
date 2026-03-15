@@ -1,0 +1,11 @@
+bio-env/
+venv/
+.env/
+
+__pycache__/
+*.pyc
+*.pyo
+
+*.fastq
+*.fastq.gz
+*.sra
