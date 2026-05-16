@@ -1,0 +1,13 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	SRR24389252	/data/fastp/SRR24389252_fastp.json
+fastp	all_sections	SRR24389265	/data/fastp/SRR24389265_fastp.json
+fastp	all_sections	SRR24389268	/data/fastp/SRR24389268_fastp.json
+fastp	all_sections	SRR24389279	/data/fastp/SRR24389279_fastp.json
+fastp	all_sections	SRR24389283	/data/fastp/SRR24389283_fastp.json
+fastp	all_sections	SRR24389284	/data/fastp/SRR24389284_fastp.json
+FastQC	all_sections	SRR24389252	/data/fastqc_reports/SRR24389252_fastqc.zip
+FastQC	all_sections	SRR24389265	/data/fastqc_reports/SRR24389265_fastqc.zip
+FastQC	all_sections	SRR24389268	/data/fastqc_reports/SRR24389268_fastqc.zip
+FastQC	all_sections	SRR24389279	/data/fastqc_reports/SRR24389279_fastqc.zip
+FastQC	all_sections	SRR24389283	/data/fastqc_reports/SRR24389283_fastqc.zip
+FastQC	all_sections	SRR24389284	/data/fastqc_reports/SRR24389284_fastqc.zip

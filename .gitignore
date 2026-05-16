@@ -1,11 +1,15 @@
-bio-env/
-venv/
-.env/
-
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 
-*.fastq
-*.fastq.gz
-*.sra
+# Virtual environments
+bio-env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

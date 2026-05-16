@@ -1,0 +1,7 @@
+Sample	command
+SRR24389252	fastp -i /data/SRR24389252.fastq -o /processed/SRR24389252_trimmed.fastq -h /qc/SRR24389252_fastp.html -j /qc/SRR24389252_fastp.json 
+SRR24389265	fastp -i /data/SRR24389265.fastq -o /processed/SRR24389265_trimmed.fastq -h /qc/SRR24389265_fastp.html -j /qc/SRR24389265_fastp.json 
+SRR24389268	fastp -i /data/SRR24389268.fastq -o /processed/SRR24389268_trimmed.fastq -h /qc/SRR24389268_fastp.html -j /qc/SRR24389268_fastp.json 
+SRR24389279	fastp -i /data/SRR24389279.fastq -o /processed/SRR24389279_trimmed.fastq -h /qc/SRR24389279_fastp.html -j /qc/SRR24389279_fastp.json 
+SRR24389283	fastp -i /data/SRR24389283.fastq -o /processed/SRR24389283_trimmed.fastq -h /qc/SRR24389283_fastp.html -j /qc/SRR24389283_fastp.json 
+SRR24389284	fastp -i /data/SRR24389284.fastq -o /processed/SRR24389284_trimmed.fastq -h /qc/SRR24389284_fastp.html -j /qc/SRR24389284_fastp.json 

@@ -1,0 +1,35 @@
+============================================================
+             FASTQ Quality Control Report
+Generated: 2026-05-11 04:08:59
+============================================================
+
+[File Information]
+File Name:          SRR24389265.fastq
+Total Reads:        4,015,735
+Average Read Length:18.37 bp
+Length Range:       15 - 45 bp
+
+[Quality Metrics]
+Average Quality:    36.52 (Phred)
+GC Content:         62.98%
+Q20 Bases:          99.07%
+Q30 Bases:          97.08%
+
+[Per-Base Quality (First 15 Positions)]
+Position   1: 36.56
+Position   2: 36.46
+Position   3: 36.54
+Position   4: 36.57
+Position   5: 36.59
+Position   6: 36.56
+Position   7: 36.55
+Position   8: 36.59
+Position   9: 36.59
+Position  10: 36.64
+Position  11: 36.64
+Position  12: 36.64
+Position  13: 36.64
+Position  14: 36.6
+Position  15: 36.38
+
+============================================================

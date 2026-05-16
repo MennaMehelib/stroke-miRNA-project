@@ -1,0 +1,56 @@
+[2026-05-11 18:39:57,738] multiqc                                            [DEBUG  ]  This is MultiQC v1.14
+[2026-05-11 18:39:57,738] multiqc                                            [DEBUG  ]  Command used: /usr/local/bin/multiqc /data -o /data/multiqc
+[2026-05-11 18:39:58,916] multiqc                                            [WARNING]  MultiQC Version v1.34 now available!
+[2026-05-11 18:39:58,916] multiqc                                            [DEBUG  ]  Working dir : /
+[2026-05-11 18:39:58,916] multiqc                                            [DEBUG  ]  Template    : default
+[2026-05-11 18:39:58,916] multiqc                                            [DEBUG  ]  Running Python 3.11.0 | packaged by conda-forge | (main, Oct 25 2022, 06:24:40) [GCC 10.4.0]
+[2026-05-11 18:39:58,917] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, lima, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, hifiasm, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, gopeaks, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dragen_fastqc, dedup, pbmarkdup, damageprofiler, biobambam2, jcvi, mtnucratio, picard, vep, sentieon, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, umitools, bbmap, bismark, biscuit, diamond, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, cellranger, snpsplit, odgi, pangolin, nextclade, humid, kat, leehom, adapterRemoval, bbduk, clipandmerge, cutadapt, flexbar, kaiju, kraken, malt, motus, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, filtlong, prinseqplusplus, pychopper, porechop, pycoqc, minionqc, anglerfish, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap
+[2026-05-11 18:39:58,917] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpgbmhjoo6
+[2026-05-11 18:39:59,065] multiqc                                            [INFO   ]  Search path : /data
+[2026-05-11 18:40:12,249] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: [skipped_module_specific_max_filesize: 102] // [skipped_no_match: 18]
+[2026-05-11 18:40:12,709] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.6.2
+[2026-05-11 18:40:12,710] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.6.2
+[2026-05-11 18:40:12,711] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2026-05-11 18:40:12,718] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: SRR24389252_fastp.json
+[2026-05-11 18:40:12,719] multiqc.modules.fastp.fastp                        [DEBUG  ]  No insert size plot data: SRR24389252_fastp.json
+[2026-05-11 18:40:12,719] multiqc.modules.fastp.fastp                        [DEBUG  ]  Read quality read2_before_filtering not found: SRR24389252_fastp.json
+[2026-05-11 18:40:12,719] multiqc.modules.fastp.fastp                        [DEBUG  ]  Content curve data read2_before_filtering not found: SRR24389252_fastp.json
+[2026-05-11 18:40:12,719] multiqc.modules.fastp.fastp                        [DEBUG  ]  Read quality read2_after_filtering not found: SRR24389252_fastp.json
+[2026-05-11 18:40:12,719] multiqc.modules.fastp.fastp                        [DEBUG  ]  Content curve data read2_after_filtering not found: SRR24389252_fastp.json
+[2026-05-11 18:40:12,722] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: SRR24389265_fastp.json
+[2026-05-11 18:40:12,722] multiqc.modules.fastp.fastp                        [DEBUG  ]  No insert size plot data: SRR24389265_fastp.json
+[2026-05-11 18:40:12,722] multiqc.modules.fastp.fastp                        [DEBUG  ]  Read quality read2_before_filtering not found: SRR24389265_fastp.json
+[2026-05-11 18:40:12,722] multiqc.modules.fastp.fastp                        [DEBUG  ]  Content curve data read2_before_filtering not found: SRR24389265_fastp.json
+[2026-05-11 18:40:12,722] multiqc.modules.fastp.fastp                        [DEBUG  ]  Read quality read2_after_filtering not found: SRR24389265_fastp.json
+[2026-05-11 18:40:12,722] multiqc.modules.fastp.fastp                        [DEBUG  ]  Content curve data read2_after_filtering not found: SRR24389265_fastp.json
+[2026-05-11 18:40:12,725] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: SRR24389268_fastp.json
+[2026-05-11 18:40:12,725] multiqc.modules.fastp.fastp                        [DEBUG  ]  No insert size plot data: SRR24389268_fastp.json
+[2026-05-11 18:40:12,725] multiqc.modules.fastp.fastp                        [DEBUG  ]  Read quality read2_before_filtering not found: SRR24389268_fastp.json
+[2026-05-11 18:40:12,725] multiqc.modules.fastp.fastp                        [DEBUG  ]  Content curve data read2_before_filtering not found: SRR24389268_fastp.json
+[2026-05-11 18:40:12,725] multiqc.modules.fastp.fastp                        [DEBUG  ]  Read quality read2_after_filtering not found: SRR24389268_fastp.json
+[2026-05-11 18:40:12,725] multiqc.modules.fastp.fastp                        [DEBUG  ]  Content curve data read2_after_filtering not found: SRR24389268_fastp.json
+[2026-05-11 18:40:12,728] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: SRR24389279_fastp.json
+[2026-05-11 18:40:12,728] multiqc.modules.fastp.fastp                        [DEBUG  ]  No insert size plot data: SRR24389279_fastp.json
+[2026-05-11 18:40:12,728] multiqc.modules.fastp.fastp                        [DEBUG  ]  Read quality read2_before_filtering not found: SRR24389279_fastp.json
+[2026-05-11 18:40:12,728] multiqc.modules.fastp.fastp                        [DEBUG  ]  Content curve data read2_before_filtering not found: SRR24389279_fastp.json
+[2026-05-11 18:40:12,728] multiqc.modules.fastp.fastp                        [DEBUG  ]  Read quality read2_after_filtering not found: SRR24389279_fastp.json
+[2026-05-11 18:40:12,728] multiqc.modules.fastp.fastp                        [DEBUG  ]  Content curve data read2_after_filtering not found: SRR24389279_fastp.json
+[2026-05-11 18:40:12,730] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: SRR24389283_fastp.json
+[2026-05-11 18:40:12,731] multiqc.modules.fastp.fastp                        [DEBUG  ]  No insert size plot data: SRR24389283_fastp.json
+[2026-05-11 18:40:12,731] multiqc.modules.fastp.fastp                        [DEBUG  ]  Read quality read2_before_filtering not found: SRR24389283_fastp.json
+[2026-05-11 18:40:12,731] multiqc.modules.fastp.fastp                        [DEBUG  ]  Content curve data read2_before_filtering not found: SRR24389283_fastp.json
+[2026-05-11 18:40:12,731] multiqc.modules.fastp.fastp                        [DEBUG  ]  Read quality read2_after_filtering not found: SRR24389283_fastp.json
+[2026-05-11 18:40:12,731] multiqc.modules.fastp.fastp                        [DEBUG  ]  Content curve data read2_after_filtering not found: SRR24389283_fastp.json
+[2026-05-11 18:40:12,733] multiqc.modules.fastp.fastp                        [DEBUG  ]  No duplication rate plot data: SRR24389284_fastp.json
+[2026-05-11 18:40:12,733] multiqc.modules.fastp.fastp                        [DEBUG  ]  No insert size plot data: SRR24389284_fastp.json
+[2026-05-11 18:40:12,734] multiqc.modules.fastp.fastp                        [DEBUG  ]  Read quality read2_before_filtering not found: SRR24389284_fastp.json
+[2026-05-11 18:40:12,734] multiqc.modules.fastp.fastp                        [DEBUG  ]  Content curve data read2_before_filtering not found: SRR24389284_fastp.json
+[2026-05-11 18:40:12,734] multiqc.modules.fastp.fastp                        [DEBUG  ]  Read quality read2_after_filtering not found: SRR24389284_fastp.json
+[2026-05-11 18:40:12,734] multiqc.modules.fastp.fastp                        [DEBUG  ]  Content curve data read2_after_filtering not found: SRR24389284_fastp.json
+[2026-05-11 18:40:12,734] multiqc.modules.fastp.fastp                        [INFO   ]  Found 6 reports
+[2026-05-11 18:40:12,809] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 6 reports
+[2026-05-11 18:40:12,850] multiqc                                            [INFO   ]  Compressing plot data
+[2026-05-11 18:40:12,928] multiqc                                            [INFO   ]  Report      : data/multiqc/multiqc_report.html
+[2026-05-11 18:40:12,928] multiqc                                            [INFO   ]  Data        : data/multiqc/multiqc_data
+[2026-05-11 18:40:12,929] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpgbmhjoo6/multiqc_data' to '/data/multiqc/multiqc_data'
+[2026-05-11 18:40:15,206] multiqc                                            [INFO   ]  MultiQC complete
